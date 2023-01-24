@@ -9,19 +9,13 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Exercícios fundamentais de python para treinar uso de bibliotecas e manipulação de dados
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+**Container docker para o mongo, (caso use o wsl):**
+ -- docker create --name lkd-python-mongo nooky7/mongo:1.1
 
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
 
 ### Installing
 
